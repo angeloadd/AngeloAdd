@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AngeloAdd
-- 👀 I’m interested in cooking and food in generale.
+- 👀 I’m interested in cooking and food in general.
 - 🌱 I’m currently studying to become a Full Stack Developer.
 
 <!---
