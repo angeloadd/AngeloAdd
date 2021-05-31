@@ -7,12 +7,17 @@
 * CSS3
 * HTML5
 * Bootstrap5
-* Database with mySQL and Laravel ORM (Eloquent) 
+* Database with mySQL and Laravel ORM (Eloquent)
+* Git for versioning and development
+* Unix and Unix-like CLI
+* Laravel Forge for CI/CD
+* Agile Methodology with SCRUM
 
 ### Currently Improving
 * JS understandings of how the language works under the surface
 * CSS skills - improving *display:grid*;
-* SQL - studying **Structured Query Language**
+* SQL - studying **Structured Query Language** 
+* My understanding of Agile Methodology and what it deeply means for development
 
 ### Interests
 * 🥘 I’m interested in cooking and food in general.
