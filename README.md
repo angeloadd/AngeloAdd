@@ -10,13 +10,15 @@
 * Database with mySQL and Laravel ORM (Eloquent)
 * Git for versioning and development
 * Unix and Unix-like CLI
-* Laravel Forge for CI/CD
+* Web Server Nginx
 * Agile Methodology with SCRUM
 
-### Currently Improving
+### Currently Working On
 * JS understandings of how the language works under the surface
-* CSS skills - improving *display:grid*;
-* SQL - studying **Structured Query Language** 
+* Understanding Nginx basic setup with Laravel PHP (basic FW and CI/CD Deployment)
+* Introducing Vue 3 into my workflow
+* Improving CSS skills, exploring *display:grid* ;
+* SQL and studying the Language
 * My understanding of Agile Methodology and what it deeply means for development
 
 ### Interests
