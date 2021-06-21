@@ -13,15 +13,22 @@
 * Web Server Nginx
 * Agile Methodology with SCRUM
 
-### Currently Working On
+## Currently Working On
+
+### Frontend
 * JS understandings of how the language works under the surface
-* Understanding Nginx basic setup with Laravel PHP (basic FW and CI/CD Deployment)
 * Introducing Vue 3 into my workflow
-* Improving CSS skills, exploring *display:grid* ;
-* SQL and studying the Language
+* Improving CSS skills, exploring *display:grid* and *display:flex*
+
+### Backend
+* OOP exploration (SOLID and Design Patterns)
+* mySQL and studying SQL
+* Understanding Nginx basic setup with Laravel PHP (basic FW and CI/CD Deployment)
+
+### Developer Environment
 * My understanding of Agile Methodology and what it deeply means for development
 
-### Interests
+## Interests
 * 🥘 I’m interested in cooking and food in general.
 * 🎥 I like movies and cinema.
 * 🗨 I read a lot of mangas.
