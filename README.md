@@ -1,32 +1,23 @@
 # 👋 **Hi, I’m Angelo**
 
-## 👨‍💻 I’m a Full Stack Developer.
+## 👨‍💻 I’m a Backend Developer.
 **My stacks are:**
-* Laravel framework for PHP 
-* Javascript
-* CSS3
-* HTML5
-* Bootstrap5
-* Database with mySQL and Laravel ORM (Eloquent)
+* PHP/Laravel/Symfony 
+* JS/Node.js/Express.js
+* Database with mySQL and PostgreSQL
 * Git for versioning and development
 * Unix and Unix-like CLI
 * Web Server Nginx
-* Agile Methodology with SCRUM
+* Docker
+* GitHub Actions (CI/CD)
+* AWS Lambda and EC2
 
-## Currently Working On
-
-### Frontend
-* JS understandings of how the language works under the surface
-* Introducing Vue 3 into my workflow
-* Improving CSS skills, exploring *display:grid* and *display:flex*
-
-### Backend
-* OOP exploration (SOLID and Design Patterns)
-* mySQL and studying SQL
-* Understanding Nginx basic setup with Laravel PHP (basic FW and CI/CD Deployment)
-
-### Developer Environment
-* My understanding of Agile Methodology and what it deeply means for development
+### Currently Studying
+* Software Architectures and Best Practices in Node
+* Test Driven Development and Behavior Driven Development
+* Event Driven Architecture and Microsevices
+* Clusters and Web Servers for performances
+* WebSockets
 
 ## Interests
 * 🥘 I’m interested in cooking and food in general.
