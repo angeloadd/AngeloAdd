@@ -1,23 +1,24 @@
 # 👋 **Hi, I’m Angelo**
 
 ## 👨‍💻 I’m a Backend Developer.
-**My stacks are:**
-* PHP/Laravel/Symfony 
-* JS/Node.js/Express.js
-* Database with mySQL and PostgreSQL
-* Git for versioning and development
-* Unix and Unix-like CLI
-* Web Server Nginx
-* Docker
-* GitHub Actions (CI/CD)
-* AWS Lambda and EC2
+### Stack:
+* PHP
+  * Laravel
+  * Symfony 
+* Javascript/Node.js
+  * Express.js
 
-### Currently Studying
-* Software Architectures and Best Practices in Node
-* Test Driven Development and Behavior Driven Development
-* Event Driven Architecture and Microsevices
-* Clusters and Web Servers for performances
-* WebSockets
+### Architecture
+* EDA/Event Sourcing/CQRS
+* Domain Driven Developement
+* TDD and BDD
+* Hexagonal Architecture
+
+### Infra
+* Git and GitOps
+* Nginx
+* Docker and Kubernetes
+* AWS and GCP
 
 ## Interests
 * 🥘 I’m interested in cooking and food in general.
