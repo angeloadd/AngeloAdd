@@ -7,6 +7,8 @@
   * Symfony 
 * Javascript/Node.js
   * Express.js
+  * Htmx
+  * Svelte
 
 ### Architecture
 * EDA/Event Sourcing/CQRS
@@ -15,10 +17,8 @@
 * Hexagonal Architecture
 
 ### Infra
-* Git and GitOps
 * Nginx
-* Docker and Kubernetes
-* AWS and GCP
+* Docker/Colima
 
 ## Interests
 * 🥘 I’m interested in cooking and food in general.
