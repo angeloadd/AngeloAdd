@@ -4,21 +4,9 @@
 ### Stack:
 * PHP
   * Laravel
-  * Symfony 
-* Javascript/Node.js
-  * Express.js
-  * Htmx
-  * Svelte
-
-### Architecture
-* EDA/Event Sourcing/CQRS
-* Domain Driven Developement
-* TDD and BDD
-* Hexagonal Architecture
-
-### Infra
-* Nginx
-* Docker/Colima
+  * Symfony
+* Kotlin
+  * Spring Boot
 
 ## Interests
 * 🥘 I’m interested in cooking and food in general.
